@@ -1,0 +1,5 @@
+html2docx
+beautifulsoup4
+pandas
+python-docx
+openpyxl
